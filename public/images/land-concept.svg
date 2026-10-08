@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 933" role="img" aria-labelledby="title desc">
+<title id="title">Open land concept illustration</title><desc id="desc">A stylized landscape of fields in green and gold. Not a photograph or survey of a real parcel.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#213b43"/><stop offset="1" stop-color="#a8ae95"/></linearGradient><linearGradient id="field" x2="1" y2="1"><stop stop-color="#879068"/><stop offset="1" stop-color="#253e36"/></linearGradient></defs>
+<path fill="url(#sky)" d="M0 0h1400v933H0z"/><circle cx="1100" cy="224" r="86" fill="#dbc496" opacity=".7"/>
+<path d="M0 450Q260 320 650 440T1400 380V933H0z" fill="#667f6d"/><path d="M0 600Q360 330 800 530T1400 460V933H0z" fill="url(#field)"/><path d="M0 725Q430 470 820 650T1400 700V933H0z" fill="#bcad79"/><path d="M0 875Q450 625 950 810T1400 835V933H0z" fill="#334b3d"/>
+<g fill="none" stroke="#ead8a7" stroke-opacity=".22" stroke-width="3"><path d="M0 682Q490 395 1000 650T1400 620"/><path d="M0 704Q490 417 1000 672T1400 642"/><path d="M0 760Q500 535 1000 750T1400 777"/><path d="M0 784Q500 559 1000 774T1400 801"/><path d="M0 808Q500 583 1000 798T1400 825"/></g>
+<path d="M670 493Q460 650 1000 933" fill="none" stroke="#e3d4ad" stroke-width="17" opacity=".75"/>
+<text x="80" y="105" fill="#e6d9ba" font-family="sans-serif" font-size="18" letter-spacing="5">THE LAND EDIT / CONCEPT ARTWORK</text><text x="80" y="224" fill="#f3e4c9" font-family="Georgia,serif" font-size="64">Room for a longer view.</text>
+<text x="80" y="869" fill="#f0e4c9" font-family="sans-serif" font-size="17" letter-spacing="2">ILLUSTRATIVE ONLY · NO VERIFIED LOCATION OR LAND-USE CLAIM</text></svg>
